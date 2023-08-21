@@ -1,7 +1,7 @@
 # machine-learning-for-economists
 
-To easily read the code and associated output, please use the "ECON 128 Final Project.Rmd" file.
+There is a PDF with the instructions and actual project with code in an R Markdown file printed to a single PDF.
 
-An associated PowerPoint presentation can be found in "ECON 128 FINAL Presentation.pptx".
+There is also a prepared PowerPoint presentation.
 
-A full description and task list of the project can be found in "Econ 128 Take Home Final.pdf".
+Unfortunately, the CSV file with all the data is too big to upload here, but I can provide it upon request.
